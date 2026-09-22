@@ -1,2 +1,4 @@
 # LenguaMortal
-Lengua Mortal is a language-learning tool created as a 3D horror game built on the Godot game engine.
+Language-learning as a horror game. **Game is still in development and may contain bugs, play at your own risk!!**
+
+## To be implemented

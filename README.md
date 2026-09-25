@@ -1,4 +1,4 @@
-# LenguaMortal
+# Lengua Mortal
 
 Language-learning as a horror game. 
 

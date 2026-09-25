@@ -122,4 +122,3 @@ dependencies:
       - weasel==1.0.0
       - win32-setctime==1.2.0
       - wrapt==2.4.1
-prefix: C:\Users\Blizz\anaconda3\envs\kokoro_env

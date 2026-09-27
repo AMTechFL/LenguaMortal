@@ -12,7 +12,7 @@ This project uses a processed version of the original .json data.
 
 Licensed under the **MIT License**.
 
-## Text-to-Speech
+## Text-to-Speech (TTS)
 
 ### [Kokoro-82M](https://github.com/hexgrad/kokoro)
 

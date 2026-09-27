@@ -26,7 +26,7 @@ More language support coming soon!
 
 ### Current Development
 
-The current version is 0.1.0-alpha, which is the first playable version of Lengua Mortal. Tools used to prepare data were written in Python, with the game itself being developed in Godot (and using GDScript).
+The current version is 0.1.0-alpha, the first playable version of Lengua Mortal. Tools used to prepare data were written in Python, with the game itself being developed in Godot (and using GDScript).
 
 More features may be added in the future, although there is no guarantee.
 

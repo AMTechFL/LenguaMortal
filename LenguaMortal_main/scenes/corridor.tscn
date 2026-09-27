@@ -299,6 +299,7 @@ texture = ExtResource("8_uiklb")
 
 [node name="testbutton" type="Area3D" parent="Door/DoorAnimation" unique_id=16466386]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0.5, 0.70000076)
+visible = false
 script = ExtResource("5_7w20u")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="Door/DoorAnimation/testbutton" unique_id=1114066388]

@@ -2,9 +2,9 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c00o7pvcgrxr8"
-path.s3tc="res://.godot/imported/woodfloor.jpg-a25fd8d7e6d93c2c70c1706572afa28b.s3tc.ctex"
-path.etc2="res://.godot/imported/woodfloor.jpg-a25fd8d7e6d93c2c70c1706572afa28b.etc2.ctex"
+uid="uid://bp0m0rkgar2d1"
+path.s3tc="res://.godot/imported/wooden.jpg-4f1576d8e6178907afa4e0c150ebeb71.s3tc.ctex"
+path.etc2="res://.godot/imported/wooden.jpg-4f1576d8e6178907afa4e0c150ebeb71.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://textures/woodfloor.jpg"
-dest_files=["res://.godot/imported/woodfloor.jpg-a25fd8d7e6d93c2c70c1706572afa28b.s3tc.ctex", "res://.godot/imported/woodfloor.jpg-a25fd8d7e6d93c2c70c1706572afa28b.etc2.ctex"]
+source_file="res://textures/wooden.jpg"
+dest_files=["res://.godot/imported/wooden.jpg-4f1576d8e6178907afa4e0c150ebeb71.s3tc.ctex", "res://.godot/imported/wooden.jpg-4f1576d8e6178907afa4e0c150ebeb71.etc2.ctex"]
 
 [params]
 
